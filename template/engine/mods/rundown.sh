@@ -28,12 +28,12 @@ source "${LIBS_DIR_PATH}/worker/init.sh"
 
 
 #=============================
-# Dump args
+# Dump building variables
 #=============================
 
 print_info "Building variables for mods:"
 
-core_args_dump
+core_building_var_dump
 
 
 
