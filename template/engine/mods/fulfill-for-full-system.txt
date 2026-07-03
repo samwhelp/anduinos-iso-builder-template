@@ -75,6 +75,15 @@ live-casper-config-install
 
 
 ##
+## ## Master / Package
+##
+
+master-package-install
+
+
+
+
+##
 ## ## Network
 ##
 
@@ -85,11 +94,17 @@ base-network-config-install
 
 
 ##
-## ## Master
+## ## Master / File
 ##
 
-master-package-install
 master-file-install
+
+
+
+
+##
+## ## Tail
+##
 
 
 
